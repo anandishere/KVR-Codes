@@ -1,0 +1,5 @@
+a_1 = int(input("Enter the Number: "))
+n = int(input("Enter the Exponet: "))
+print("="*50)
+print("the exponet number is : ",(a_1**n))
+print("="*50)
